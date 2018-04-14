@@ -3,7 +3,7 @@
 //  Pomodoro
 //
 //  Created by Apostolos Papadopoulos on 4/13/18.
-//  Copyright © 2018 Apostolos Papadopoulos. All rights reserved.
+//  MIT, 2018 Apostolos Papadopoulos.
 //
 
 import Cocoa
