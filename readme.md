@@ -11,7 +11,9 @@ a local notification.
 
 Download Pomodoro from the [relases][dl-link] page.
 
-Icons used available [here][icon1] and [here][icon2].
+## License
+
+MIT. Icons used available [here][icon1] and [here][icon2].
 
 [icon1]:
     http://www.iconarchive.com/show/food-drink-icons-by-graphicloads/tomato-icon.html
