@@ -7,6 +7,8 @@ Pomodoro does exactly what it needs to do, looks ok, and doesn't have ads.
 Pomodoro doesn't show an ongoing timer. When a task or a break is over it sends
 a local notification.
 
+![A Pomodoro screenshot.](pomodoro.png)
+
 ## Download
 
 Download Pomodoro from the [relases][dl-link] page.
