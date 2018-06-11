@@ -133,7 +133,7 @@ class AppDelegate: NSObject, NSApplicationDelegate,
             count -= 1
             print(countDownLabel)
         } else {
-            showNotification(content: "The task has finished. Time for a break!")
+            showNotification(content: "Your task is over. Time for a break!")
             reset()
             renameTaskItem(item_name_old: "Stop Task",
                            item_name_new: "Start Task",
@@ -150,7 +150,7 @@ class AppDelegate: NSObject, NSApplicationDelegate,
             countBreak -= 1
             print(countDownLabel)
         } else {
-            showNotification(content: "The break has finished. Time for a new task!")
+            showNotification(content: "Your break is over. Time for a new task!")
             reset()
             renameBreakItem(item_name_old: "Stop Break",
                             item_name_new: "Start Break",
