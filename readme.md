@@ -11,7 +11,7 @@ a local notification.
 
 ## Download
 
-Download Pomodoro from the [relases][dl-link] page.
+Download Pomodoro from the [releases][dl-link] page.
 
 ## License
 
