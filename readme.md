@@ -5,7 +5,7 @@ Saturday morning. Other pomodoro apps do too much, don't look good, or have ads.
 Pomodoro does exactly what it needs to do, looks ok, and doesn't have ads.
 
 Pomodoro doesn't show an ongoing timer. When a task or a break is over it sends
-a local notification.
+a local notification. It runs the classic Pomodoro schedule: 25-minute tasks with 5-minute breaks.
 
 ![A Pomodoro screenshot.](pomodoro.png)
 
